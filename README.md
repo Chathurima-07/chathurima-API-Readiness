@@ -1,10 +1,10 @@
 # DataNexus API
 
 ## Live Deployment URL
-<your-render-url>
+https://chathurima.onrender.com
 
 ## Swagger Documentation
-
+https://chathurima.onrender.com/api-docs
 
 ## Environment Variables
 - PORT
