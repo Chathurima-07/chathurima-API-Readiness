@@ -4,7 +4,7 @@
 <your-render-url>
 
 ## Swagger Documentation
-<your-render-url>/api-docs
+
 
 ## Environment Variables
 - PORT
